@@ -48,6 +48,9 @@
 - Run in build mode
   `yarn build`
 
+Jangan lupa setelah itu pakai command ini:
+npm run develop
+
 ### License
 
 MIT License
